@@ -1,0 +1,23 @@
+{
+  "name": "httpscraper",
+  "version": "1.0.0",
+  "description": "A Simple Application that scrapes data from an html page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceckenrode/httpScraper.git"
+  },
+  "author": "Christian Eckenrode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceckenrode/httpScraper/issues"
+  },
+  "homepage": "https://github.com/ceckenrode/httpScraper#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.69.0"
+  }
+}
